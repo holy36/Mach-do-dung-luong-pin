@@ -1,5 +1,5 @@
 /*
-* JOULE WORKS
+* TEAM7 WORKS
 * Battery Capacity Tester v1.0
 * You Tube - https://youtu.be/zgrMHbX9UC8
 */
