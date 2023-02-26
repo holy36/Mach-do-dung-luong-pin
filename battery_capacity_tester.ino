@@ -1,9 +1,6 @@
 /*
 * TEAM7 WORKS
 * Battery Capacity Tester v1.0
-* You Tube - https://youtu.be/zgrMHbX9UC8
-*/
-
 
 //******YOU MAY NEED TO CHANGE SOME PARAMETERS FOR ACCURATE RESULTS*******//
 //*****************PLEASE READ THE COMMENTS DOWN BELOW********************//
@@ -20,7 +17,7 @@ LiquidCrystal lcd(6, 8, 2, 3, 4, 5); //LCD
 void setup() {
   // LCD
   lcd.begin(16, 2);
-  lcd.print("JOULE WORKS");
+  lcd.print("TEAM7WORKS");
   delay(1000);
   lcd.clear();
   lcd.print("Batt. mAh Tester");
