@@ -1,7 +1,5 @@
 /*
 * TEAM7 WORKS
-* Battery Capacity Tester v1.0
-
 //******YOU MAY NEED TO CHANGE SOME PARAMETERS FOR ACCURATE RESULTS*******//
 //*****************PLEASE READ THE COMMENTS DOWN BELOW********************//
 
